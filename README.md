@@ -12,16 +12,12 @@ I downloaded the data from each of their designated sources, then transposed the
 A more detailed summary of resources can be found below.
 
 # Visualizations Part 1
-![Firearm Licenses in United States](https://raw.githubusercontent.com/demihanssen/DATA115-PersonalDataSet/main/GunLicense.png)
-
-![Violent Crime in United States](https://raw.githubusercontent.com/demihanssen/DATA115-PersonalDataSet/main/Crime.png)
+![Firearm Licenses in United States](https://raw.githubusercontent.com/demihanssen/DATA115-PersonalDataSet/main/GunLicense.png)![Violent Crime in United States](https://raw.githubusercontent.com/demihanssen/DATA115-PersonalDataSet/main/Crime.png)
 
 In the line plots above, we can observe a spike in violent crimes in the early 1990’s, simultaneously the number of guns licenses is reaching a peak in the same timeframe. After the peak in violent crimes in the 1990’s we see a drastic drop in crime, as well as a significant drop in gun licenses with licenses beginning to rise again in the early 2000’s. With only these charts to base initial understanding, there does seem to be an obvious trend. Let’s take a closer look into more data to see if this trend will continue to be supported.
 
 # Visualizations Part 2
-![Firearm Background Checks in US](https://raw.githubusercontent.com/demihanssen/DATA115-PersonalDataSet/main/BackgroundChecks.png)
-
-![Deaths Directly Related to Firearms in US](https://raw.githubusercontent.com/demihanssen/DATA115-PersonalDataSet/main/Direct.png)
+![Firearm Background Checks in US](https://raw.githubusercontent.com/demihanssen/DATA115-PersonalDataSet/main/BackgroundChecks.png)![Deaths Directly Related to Firearms in US](https://raw.githubusercontent.com/demihanssen/DATA115-PersonalDataSet/main/Direct.png)
 
 I also wanted to take into account the number of background checks on firearms purchases, as well as the number of deaths directly related to firearms in the United States. In the line graph above, we can see that the number of background checks has drastically increased in the past 22 years. This could be once of the reasons we saw a steady decline in the number of firearms licenses, since increased background checks could cause increased difficulty in legally purchasing a gun. Despite the increase in background checks, and a decrease in firearm licenses, the second plot above shows that the number of gun related deaths have been steadily increasing since the year 2000.
 
